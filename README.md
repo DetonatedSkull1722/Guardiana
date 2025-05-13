@@ -1,3 +1,4 @@
+# This repository is currently under security maintanance till 25th May 2025
 # Guardianìa
 
 Guardianìa is a mobile and web application dedicated to empowering the girl child by providing comprehensive safety, legal, and informational support. The app features real-time risk mapping, secure data management, and access to legal resources to help women and girls navigate both urban and rural environments safely.
